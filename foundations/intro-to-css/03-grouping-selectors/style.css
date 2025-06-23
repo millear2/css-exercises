@@ -1,0 +1,12 @@
+.font-size.font-family {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+#blkbkgrd {
+    color: white;
+    background-color: #000000;
+}
+
+#yllwbkgrd {
+    background-color: rgb(255, 255, 0);
+}
